@@ -15,7 +15,7 @@ public class Cat {
        else{
            this.cuddles="doesn't likes cuddles";
         } 
-        System.out.printf("This is %s, who is %s years old. %s %s %s.\n",this.name,this.age,this.name,this.cuddles);
+        System.out.printf("This is %s, who is %s years old. %s %s.\n",this.name,this.age,this.name,this.cuddles);
     }
 
 }
